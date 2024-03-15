@@ -1,0 +1,532 @@
+depmap_id	cell_line_name	lineage	culture_type	msi	used_in_sgRNA_analyses	used_in_shRNA_analyses
+ACH-000956	22Rv1	prostate	Adherent	inferred-MSI	yes	yes
+ACH-000070	697	blood	Adherent	inferred-MSS	yes	yes
+ACH-000411	769-P	kidney	Adherent	inferred-MSS	yes	yes
+ACH-000649	786-O	kidney	Adherent	inferred-MSS	yes	yes
+ACH-001306	8305C	thyroid	Adherent	inferred-MSS	yes	yes
+ACH-000558	A-172	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000201	A-204	soft_tissue	Adherent	inferred-MSS	no	yes
+ACH-000788	A2058	skin	Adherent	inferred-MSS	yes	yes
+ACH-000740	A-253	upper_aerodigestive	Adherent	inferred-MSS	yes	yes
+ACH-000219	A-375	skin	Adherent	inferred-MSS	yes	yes
+ACH-000697	A3/KAW	lymphocyte	Suspension	inferred-MSS	yes	yes
+ACH-000555	A-498	kidney	Adherent	inferred-MSS	no	yes
+ACH-000157	A4/Fuk	lymphocyte	Suspension	inferred-MSS	no	yes
+ACH-000681	A549	lung	Adherent	inferred-MSS	yes	yes
+ACH-000052	A-673	bone	Adherent	inferred-MSS	yes	yes
+ACH-000528	ABC-1	lung	Adherent	inferred-MSS	yes	yes
+ACH-000046	ACHN	kidney	Adherent	inferred-MSS	no	yes
+ACH-000880	AGS	gastric	Adherent	inferred-MSS	yes	yes
+ACH-000557	AML-193	blood	Suspension	inferred-MSS	yes	yes
+ACH-000838	AMO-1	plasma_cell	Suspension	inferred-MSS	yes	yes
+ACH-000940	AN3 CA	uterus	Adherent	inferred-MSI	no	yes
+ACH-000222	AsPC-1	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000248	AU565	breast	Adherent	inferred-MSS	yes	yes
+ACH-000456	B-CPAP	thyroid	Adherent	inferred-MSS	yes	yes
+ACH-000794	BICR 22	upper_aerodigestive	Adherent	inferred-MSS	yes	yes
+ACH-000771	BICR 56	upper_aerodigestive	Adherent	inferred-MSS	yes	yes
+ACH-000415	BICR 6	upper_aerodigestive	Adherent	inferred-MSS	yes	yes
+ACH-000536	BT-20	breast	Adherent	inferred-MSS	no	yes
+ACH-000927	BT-474	breast	Adherent	inferred-MSS	no	yes
+ACH-000818	BT-483	breast	Adherent	inferred-MSS	no	yes
+ACH-000288	BT-549	breast	Adherent	inferred-MSS	yes	yes
+ACH-000535	BxPC-3	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000009	C2BBe1	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000580	C32	skin	Adherent	inferred-MSS	yes	yes
+ACH-000433	Caki-1	kidney	Adherent	inferred-MSS	yes	yes
+ACH-000234	Caki-2	kidney	Adherent	inferred-MSS	yes	yes
+ACH-000212	CAL-120	breast	Adherent	inferred-MSS	yes	yes
+ACH-000826	CAL-12T	lung	Adherent	inferred-MSS	yes	yes
+ACH-000832	CAL 27	upper_aerodigestive	Adherent	inferred-MSS	yes	yes
+ACH-000142	CAL-29	urinary_tract	Adherent	inferred-MSS	yes	yes
+ACH-000518	CAL-33	upper_aerodigestive	Adherent	inferred-MSS	yes	yes
+ACH-000856	CAL-51	breast	Adherent	inferred-MSI	yes	yes
+ACH-000457	CAL-54	kidney	Adherent	inferred-MSS	no	yes
+ACH-000511	Calu-1	lung	Adherent	inferred-MSS	yes	yes
+ACH-000392	Calu-3	lung	Adherent	inferred-MSS	no	yes
+ACH-000264	Calu-6	lung	Adherent	inferred-MSS	yes	yes
+ACH-000783	CAMA-1	breast	Adherent	inferred-MSS	yes	yes
+ACH-000713	Caov-3	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000103	Caov-4	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000464	CAS-1	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000867	ChaGo-K-1	lung	Adherent	inferred-MSS	yes	yes
+ACH-001041	COLO-699	lung	Adherent	inferred-MSS	yes	yes
+ACH-000249	CL-11	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000641	CMK	blood	Suspension	inferred-MSS	no	yes
+ACH-001036	CMK-11-5	blood	Suspension	inferred-MSS	yes	yes
+ACH-000253	COLO 201	colorectal	Suspension	inferred-MSS	yes	yes
+ACH-000202	COLO-320	colorectal	Suspension	inferred-MSS	yes	yes
+ACH-000350	COLO-678	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000805	COLO-679	skin	Adherent	inferred-MSS	yes	yes
+ACH-000717	COLO-680N	esophagus	Adherent	inferred-MSS	yes	yes
+ACH-000864	COLO 684	uterus	Suspension	inferred-MSI	yes	yes
+ACH-000582	COLO 741	skin	Adherent	inferred-MSS	no	yes
+ACH-000812	COLO-783	skin	Adherent	inferred-MSS	no	yes
+ACH-000644	COLO 829	skin	Adherent	inferred-MSS	no	yes
+ACH-000161	COR-L105	lung	Adherent	inferred-MSS	yes	yes
+ACH-000662	COR-L23	lung	Adherent	inferred-MSS	yes	yes
+ACH-000256	COV318	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000278	COV362	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000123	COV434	ovary	Adherent	inferred-MSS	yes	yes
+ACH-001048	COV504	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000608	COV644	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000055	D283 Med	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000243	DAN-G	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000211	Daoy	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000334	DB	lymphocyte	Suspension	inferred-MSS	yes	yes
+ACH-000863	DBTRG-05MG	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000244	DK-MG	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000530	DMS 114	lung	Adherent	inferred-MSS	no	yes
+ACH-000749	DMS 273	lung	Adherent	inferred-MSS	no	yes
+ACH-000258	Du4475	breast	Suspension	inferred-MSS	yes	yes
+ACH-000563	EBC-1	lung	Adherent	inferred-MSS	yes	yes
+ACH-000308	EFO-21	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000936	EFO-27	ovary	Adherent	inferred-MSI	yes	yes
+ACH-000706	EKVX	lung	Adherent	inferred-MSS	yes	yes
+ACH-000978	EN	uterus	Adherent	inferred-MSI	yes	yes
+ACH-000585	EPLC-272H	lung	Adherent	inferred-MSS	yes	yes
+ACH-000906	ES-2	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000487	F-36P	blood	Suspension	inferred-MSS	yes	yes
+ACH-000846	FaDu	upper_aerodigestive	Adherent	inferred-MSS	yes	yes
+ACH-000574	FU-OV-1	ovary	Adherent	inferred-MSS	no	yes
+ACH-000572	G-361	skin	Adherent	inferred-MSS	no	yes
+ACH-000096	G-401	kidney	Adherent	inferred-MSS	yes	yes
+ACH-000098	GAMG	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000756	GI-1	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000982	GP2d	colorectal	Adherent	inferred-MSI	no	yes
+ACH-000374	HCC1143	breast	Adherent	inferred-MSS	yes	yes
+ACH-000901	HCC-1359	lung	Adherent	inferred-MSS	yes	yes
+ACH-000699	HCC1395	breast	Adherent	inferred-MSS	yes	yes
+ACH-000349	HCC1500	breast	Adherent	inferred-MSS	no	yes
+ACH-000196	HCC1599	breast	Suspension	inferred-MSS	no	yes
+ACH-000624	HCC1806	breast	Adherent	inferred-MSS	yes	yes
+ACH-000223	HCC1937	breast	Adherent	inferred-MSS	yes	yes
+ACH-000859	HCC1954	breast	Adherent	inferred-MSS	yes	yes
+ACH-000725	HCC202	breast	Adherent	inferred-MSS	yes	yes
+ACH-000755	HCC2218	breast	Suspension	inferred-MSS	no	yes
+ACH-000276	HCC38	breast	Adherent	inferred-MSS	yes	yes
+ACH-000066	HCC4006	lung	Adherent	inferred-MSS	no	yes
+ACH-000668	HCC70	breast	Adherent	inferred-MSS	yes	yes
+ACH-000012	HCC827	lung	Adherent	inferred-MSS	yes	yes
+ACH-000971	HCT 116	colorectal	Adherent	inferred-MSI	yes	yes
+ACH-000997	HCT-15	colorectal	Adherent	inferred-MSI	yes	yes
+ACH-000643	HDQ-P1	breast	Adherent	inferred-MSS	no	yes
+ACH-000954	HEC-1-A	uterus	Adherent	inferred-MSI	no	yes
+ACH-000004	HEL	blood	Suspension	inferred-MSS	yes	yes
+ACH-000005	HEL 92.1.7	blood	Suspension	inferred-MSS	yes	yes
+ACH-000625	Hep 3B2.1-7	liver	Adherent	inferred-MSS	no	yes
+ACH-000739	Hep G2	liver	Adherent	inferred-MSS	yes	yes
+ACH-000542	Hey-A8	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000847	HGC-27	gastric	Adherent	inferred-MSS	yes	yes
+ACH-000002	HL-60	blood	Suspension	inferred-MSS	no	yes
+ACH-000393	HLF	liver	Adherent	inferred-MSS	yes	yes
+ACH-000721	HMC-1-8	breast	Adherent	inferred-MSS	yes	yes
+ACH-000861	HOP-62	lung	Adherent	inferred-MSS	yes	yes
+ACH-000270	HPAC	pancreas	Adherent	inferred-MSS	no	yes
+ACH-000094	HPAF-II	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000148	Hs 578T	breast	Adherent	inferred-MSS	yes	yes
+ACH-000067	Hs 683	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000799	Hs 695T	skin	Adherent	inferred-MSS	yes	yes
+ACH-000133	Hs 729	fibroblast	Adherent	inferred-MSS	yes	yes
+ACH-000178	Hs 766T	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000814	Hs 939.T	skin	Adherent	inferred-MSS	yes	yes
+ACH-000632	Hs 944.T	skin	Adherent	inferred-MSS	yes	yes
+ACH-000054	HT-1080	soft_tissue	Adherent	inferred-MSS	yes	yes
+ACH-000986	HT115	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000547	HT-1197	urinary_tract	Adherent	inferred-MSS	yes	yes
+ACH-000724	HT-1376	urinary_tract	Adherent	inferred-MSS	yes	yes
+ACH-000322	HT-144	skin	Adherent	inferred-MSS	yes	yes
+ACH-000552	HT-29	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000926	HT55	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000475	huH-1	liver	Adherent	inferred-MSS	yes	yes
+ACH-000118	HUP-T3	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000672	IA-LM	lung	Adherent	inferred-MSS	no	yes
+ACH-000882	IGR-1	skin	Adherent	inferred-MSS	yes	yes
+ACH-000550	IGR-39	skin	Adherent	inferred-MSS	yes	yes
+ACH-000919	IM95	gastric	Adherent	inferred-MSI	yes	yes
+ACH-000915	IPC-298	skin	Adherent	inferred-MSS	yes	yes
+ACH-000217	JHH-6	liver	Adherent	inferred-MSS	yes	yes
+ACH-000237	JHOM-1	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000753	JMSU-1	urinary_tract	Adherent	inferred-MSS	yes	yes
+ACH-000551	K-562	blood	Suspension	inferred-MSS	yes	yes
+ACH-000728	KASUMI-2	blood	Suspension	inferred-MSS	no	yes
+ACH-000507	KE-39	gastric	Adherent	inferred-MSS	yes	yes
+ACH-000969	KM12	colorectal	Adherent	inferred-MSI	yes	yes
+ACH-000250	KMRC-20	kidney	Adherent	inferred-MSS	yes	yes
+ACH-000380	KMS-12-BM	plasma_cell	Suspension	inferred-MSS	no	yes
+ACH-000576	KMS-27	plasma_cell	Suspension	inferred-MSS	yes	yes
+ACH-000419	KMS-28BM	plasma_cell	Suspension	inferred-MSS	no	yes
+ACH-000622	KNS-42	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000858	KNS-62	lung	Adherent	inferred-MSS	yes	yes
+ACH-000265	KP4	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000028	KPL-1	breast	Adherent	inferred-MSS	yes	yes
+ACH-000446	KP-N-SI9s	peripheral_nervous_system	Adherent	inferred-MSS	no	yes
+ACH-000486	KU-19-19	urinary_tract	Adherent	inferred-MSS	yes	yes
+ACH-000823	KYSE-140	esophagus	Adherent	inferred-MSS	yes	yes
+ACH-000855	KYSE-150	esophagus	Adherent	inferred-MSS	yes	yes
+ACH-000693	KYSE-180	esophagus	Adherent	inferred-MSS	yes	yes
+ACH-000777	KYSE-30	esophagus	Adherent	inferred-MSS	yes	yes
+ACH-000809	KYSE-410	esophagus	Adherent	inferred-MSS	yes	yes
+ACH-000865	KYSE-450	esophagus	Adherent	inferred-MSS	yes	yes
+ACH-000637	KYSE-520	esophagus	Adherent	inferred-MSS	yes	yes
+ACH-000685	L3.3	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000183	L-363	plasma_cell	Suspension	inferred-MSS	yes	yes
+ACH-000301	LAMA-84	blood	Adherent	inferred-MSS	no	yes
+ACH-001113	LC-1/sq-SF	lung	Adherent	inferred-MSS	no	yes
+ACH-000627	LCLC-103H	lung	Adherent	inferred-MSS	yes	yes
+ACH-000769	LK-2	lung	Adherent	inferred-MSS	yes	yes
+ACH-000819	LN-18	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000595	LN-229	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000176	LOU-NH91	lung	Adherent	inferred-MSS	yes	yes
+ACH-000950	LoVo	colorectal	Adherent	inferred-MSI	yes	yes
+ACH-000985	LS411N	colorectal	Adherent	inferred-MSI	yes	yes
+ACH-000007	LS513	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000444	LU99	lung	Adherent	inferred-MSS	yes	yes
+ACH-000390	LUDLU-1	lung	Adherent	inferred-MSS	yes	yes
+ACH-000787	LXF-289	lung	Adherent	inferred-MSS	yes	yes
+ACH-000152	M059K	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000019	MCF7	breast	Adherent	inferred-MSS	yes	yes
+ACH-000621	MDA-MB-157	breast	Adherent	inferred-MSS	yes	yes
+ACH-000759	MDA-MB-175-VII	breast	Adherent	inferred-MSS	no	yes
+ACH-000768	MDA-MB-231	breast	Adherent	inferred-MSS	yes	yes
+ACH-000934	MDA-MB-361	breast	Adherent	inferred-MSS	yes	yes
+ACH-000876	MDA-MB-415	breast	Adherent	inferred-MSS	yes	yes
+ACH-000573	MDA-MB-436	breast	Adherent	inferred-MSS	yes	yes
+ACH-000910	MDA-MB-453	breast	Adherent	inferred-MSS	yes	yes
+ACH-000849	MDA-MB-468	breast	Adherent	inferred-MSS	yes	yes
+ACH-000952	MDA PCa 2b	prostate	Adherent	inferred-MSI	no	yes
+ACH-000935	MDST8	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000450	MEL-HO	skin	Adherent	inferred-MSS	yes	yes
+ACH-000881	MEL-JUSO	skin	Adherent	inferred-MSS	yes	yes
+ACH-000987	MeWo	skin	Adherent	inferred-MSS	no	yes
+ACH-000192	MFE-280	uterus	Adherent	inferred-MSS	yes	yes
+ACH-000988	MFE-319	uterus	Adherent	inferred-MSI	yes	yes
+ACH-001819	MFM-223	breast	Adherent	inferred-MSS	yes	yes
+ACH-000391	MHH-ES-1	bone	Adherent	inferred-MSS	yes	yes
+ACH-000601	MIA PaCa-2	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000362	MOLM-13	blood	Suspension	inferred-MSS	yes	yes
+ACH-000369	MOLM-16	blood	Suspension	inferred-MSS	no	yes
+ACH-000006	MONO-MAC-6	blood	Adherent	inferred-MSS	no	yes
+ACH-000851	MOR/CPR	lung	Suspension	inferred-MSS	yes	yes
+ACH-000045	MV4;11	blood	Suspension	inferred-MSS	yes	yes
+ACH-000804	NB-1	peripheral_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000866	NCI-H1048	lung	Adherent	inferred-MSI	yes	yes
+ACH-000780	NCI-H1105	lung	Suspension	inferred-MSS	no	yes
+ACH-000980	NCI-H1155	lung	Suspension	inferred-MSI	yes	yes
+ACH-000510	NCI-H1299	lung	Adherent	inferred-MSS	yes	yes
+ACH-000666	NCI-H1355	lung	Adherent	inferred-MSS	yes	yes
+ACH-000845	NCI-H1373	lung	Adherent	inferred-MSS	yes	yes
+ACH-000327	NCI-H1395	lung	Adherent	inferred-MSS	no	yes
+ACH-000852	NCI-H1435	lung	Adherent	inferred-MSS	no	yes
+ACH-000589	NCI-H1437	lung	Adherent	inferred-MSS	yes	yes
+ACH-000506	NCI-H146	lung	Suspension	inferred-MSS	no	yes
+ACH-000869	NCI-H1568	lung	Adherent	inferred-MSS	yes	yes
+ACH-000916	NCI-H1573	lung	Adherent	inferred-MSS	yes	yes
+ACH-000921	NCI-H1339	lung	Adherent	inferred-MSS	yes	yes
+ACH-000744	NCI-H1623	lung	Adherent	inferred-MSS	no	yes
+ACH-000035	NCI-H1650	lung	Adherent	inferred-MSS	yes	yes
+ACH-000448	NCI-H1666	lung	Adherent	inferred-MSS	yes	yes
+ACH-000021	NCI-H1693	lung	Adherent	inferred-MSS	yes	yes
+ACH-000431	NCI-H1694	lung	Suspension	inferred-MSS	yes	yes
+ACH-000747	NCI-H1703	lung	Adherent	inferred-MSS	yes	yes
+ACH-000496	NCI-H1792	lung	Adherent	inferred-MSS	yes	yes
+ACH-000888	NCI-H1793	lung	Adherent	inferred-MSS	yes	yes
+ACH-000733	NCI-H1838	lung	Adherent	inferred-MSS	no	yes
+ACH-000586	NCI-H1876	lung	Adherent	inferred-MSS	no	yes
+ACH-000434	NCI-H1915	lung	Adherent	inferred-MSS	yes	yes
+ACH-000414	NCI-H1944	lung	Adherent	inferred-MSS	yes	yes
+ACH-000752	NCI-H196	lung	Adherent	inferred-MSS	no	yes
+ACH-000587	NCI-H1975	lung	Adherent	inferred-MSS	yes	yes
+ACH-000781	NCI-H2023	lung	Adherent	inferred-MSS	yes	yes
+ACH-000521	NCI-H2030	lung	Adherent	inferred-MSS	yes	yes
+ACH-000153	NCI-H2052	lung	Adherent	inferred-MSS	yes	yes
+ACH-000290	NCI-H209	lung	Adherent	inferred-MSS	yes	yes
+ACH-000639	NCI-H211	lung	Suspension	inferred-MSS	yes	yes
+ACH-000311	NCI-H2122	lung	Suspension	inferred-MSS	yes	yes
+ACH-000785	NCI-H2126	lung	Adherent	inferred-MSS	yes	yes
+ACH-000525	NCI-H2171	lung	Adherent	inferred-MSS	yes	yes
+ACH-000924	NCI-H2172	lung	Adherent	inferred-MSS	yes	yes
+ACH-000718	NCI-H2291	lung	Adherent	inferred-MSS	yes	yes
+ACH-000900	NCI-H23	lung	Adherent	inferred-MSS	yes	yes
+ACH-000092	NCI-H2452	lung	Adherent	inferred-MSS	yes	yes
+ACH-000648	NCI-H28	lung	Adherent	inferred-MSS	yes	yes
+ACH-001075	NCI-H292	lung	Adherent	inferred-MSS	yes	yes
+ACH-000837	NCI-H322	lung	Adherent	inferred-MSS	yes	yes
+ACH-000109	NCI-H3255	lung	Adherent	inferred-MSS	no	yes
+ACH-000860	NCI-H358	lung	Adherent	inferred-MSS	yes	yes
+ACH-000638	NCI-H441	lung	Adherent	inferred-MSS	yes	yes
+ACH-000463	NCI-H460	lung	Adherent	inferred-MSS	yes	yes
+ACH-000395	NCI-H520	lung	Adherent	inferred-MSS	yes	yes
+ACH-000767	NCI-H526	lung	Suspension	inferred-MSS	yes	yes
+ACH-000378	NCI-H647	lung	Adherent	inferred-MSS	yes	yes
+ACH-000853	NCI-H661	lung	Adherent	inferred-MSS	yes	yes
+ACH-000491	NCI-H716	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000775	NCI-H727	lung	Adherent	inferred-MSS	yes	yes
+ACH-000403	NCI-H747	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000416	NCI-H838	lung	Adherent	inferred-MSS	yes	yes
+ACH-000710	NCI-H854	lung	Suspension	inferred-MSS	no	yes
+ACH-000427	NCI-N87	gastric	Adherent	inferred-MSS	yes	yes
+ACH-000001	NIH:OVCAR-3	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000168	NOMO-1	blood	Adherent	inferred-MSS	yes	yes
+ACH-000704	OAW42	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000544	OE21	esophagus	Adherent	inferred-MSS	yes	yes
+ACH-000383	OE33	esophagus	Adherent	inferred-MSS	yes	yes
+ACH-000024	OPM-2	plasma_cell	Suspension	inferred-MSS	yes	yes
+ACH-000688	OV7	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000291	OV-90	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000617	OVCAR-4	ovary	Adherent	inferred-MSS	no	yes
+ACH-000663	OVTOKO	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000042	Panc 02.03	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000139	Panc 03.27	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000235	Panc 04.03	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000093	Panc 05.04	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000417	Panc 08.13	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000164	PANC-1	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000060	Panc 10.05	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000599	PA-TU-8902	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000023	PA-TU-8988T	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000030	PC-14	lung	Adherent	inferred-MSS	yes	yes
+ACH-000090	PC-3	prostate	Adherent	inferred-MSS	no	yes
+ACH-000606	PE/CA-PJ34 (clone C12)	upper_aerodigestive	Adherent	inferred-MSS	yes	yes
+ACH-000732	PE/CA-PJ41 (clone D2)	upper_aerodigestive	Adherent	inferred-MSS	yes	yes
+ACH-000735	PE/CA-PJ49	upper_aerodigestive	Adherent	inferred-MSS	yes	yes
+ACH-000140	Pfeiffer	lymphocyte	Suspension	inferred-MSS	no	yes
+ACH-000307	PK-1	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-001318	PLC/PRF/5	liver	Adherent	inferred-MSS	yes	yes
+ACH-000320	PSN1	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000347	QGP-1	pancreas	Adherent	inferred-MSS	no	yes
+ACH-000169	RD	soft_tissue	Adherent	inferred-MSS	yes	yes
+ACH-000041	RD-ES	bone	Adherent	inferred-MSS	yes	yes
+ACH-000960	Reh	blood	Suspension	inferred-MSI	yes	yes
+ACH-000774	RERF-LC-Ad2	lung	Adherent	inferred-MSS	yes	yes
+ACH-000261	RERF-LC-AI	lung	Adherent	inferred-MSS	yes	yes
+ACH-000062	RERF-LC-MS	lung	Adherent	inferred-MSS	no	yes
+ACH-000833	RH-30	soft_tissue	Adherent	inferred-MSS	yes	yes
+ACH-000100	RH-41	soft_tissue	Adherent	inferred-MSS	no	yes
+ACH-000943	RKO	colorectal	Adherent	inferred-MSI	yes	yes
+ACH-000371	RL	lymphocyte	Suspension	inferred-MSS	yes	yes
+ACH-000965	RL95-2	uterus	Adherent	inferred-MSI	yes	yes
+ACH-000348	RPMI-7951	skin	Adherent	inferred-MSS	yes	yes
+ACH-000817	RPMI 8226	plasma_cell	Suspension	inferred-MSS	yes	yes
+ACH-000473	RT-112	urinary_tract	Adherent	inferred-MSS	yes	yes
+ACH-000614	RVH-421	skin	Adherent	inferred-MSS	yes	yes
+ACH-000410	Saos-2	bone	Adherent	inferred-MSS	yes	yes
+ACH-000670	SBC-5	lung	Adherent	inferred-MSS	no	yes
+ACH-000188	SCC-25	upper_aerodigestive	Adherent	inferred-MSS	yes	yes
+ACH-000238	SCC-4	upper_aerodigestive	Adherent	inferred-MSS	yes	yes
+ACH-000782	SEM	blood	Suspension	inferred-MSI	yes	yes
+ACH-000376	SF-295	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000556	SIHA	cervix	Adherent	inferred-MSS	yes	yes
+ACH-000748	SJSA-1	bone	Adherent	inferred-MSS	yes	yes
+ACH-000017	SK-BR-3	breast	Adherent	inferred-MSS	yes	yes
+ACH-000400	SK-CO-1	colorectal	Adherent	inferred-MSS	no	yes
+ACH-000361	SK-HEP-1	liver	Adherent	inferred-MSS	yes	yes
+ACH-001190	SK-MEL-2	skin	Adherent	inferred-MSI	yes	yes
+ACH-000615	SK-MEL-28	skin	Adherent	inferred-MSS	no	yes
+ACH-000423	SK-MEL-3	skin	Adherent	inferred-MSS	no	yes
+ACH-000810	SK-MEL-30	skin	Adherent	inferred-MSS	yes	yes
+ACH-000730	SK-MEL-5	skin	Adherent	inferred-MSS	no	yes
+ACH-000665	SK-MES-1	lung	Adherent	inferred-MSS	yes	yes
+ACH-000260	SK-N-AS	peripheral_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000366	SK-N-DZ	peripheral_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000341	SK-N-FI	peripheral_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000039	SK-N-MC	bone	Adherent	inferred-MSS	yes	yes
+ACH-000149	SK-N-SH	peripheral_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000811	SK-OV-3	ovary	Adherent	inferred-MSI	yes	yes
+ACH-000907	SNU-349	kidney	Adherent	inferred-MSI	yes	yes
+ACH-000493	SNU-423	liver	Adherent	inferred-MSS	yes	yes
+ACH-000420	SNU-449	liver	Adherent	inferred-MSS	yes	yes
+ACH-000532	SNU-61	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000460	SNU-8	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000280	SNU-840	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000967	SNU-C2A	colorectal	Adherent	inferred-MSI	no	yes
+ACH-000365	SU-DHL-4	lymphocyte	Suspension	inferred-MSS	yes	yes
+ACH-000611	SU-DHL-6	lymphocyte	Suspension	inferred-MSS	no	yes
+ACH-000652	SUIT-2	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000437	SW 1088	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000890	SW 1271	lung	Adherent	inferred-MSS	yes	yes
+ACH-000418	SW 1353	bone	Adherent	inferred-MSS	no	yes
+ACH-000236	SW1417	colorectal	Adherent	inferred-MSS	no	yes
+ACH-000470	SW1463	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000677	SW 1573	lung	Adherent	inferred-MSS	yes	yes
+ACH-000883	SW 1783	central_nervous_system	Adherent	inferred-MSS	no	yes
+ACH-000155	SW 1990	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000820	SW403	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000958	SW48	colorectal	Adherent	inferred-MSI	yes	yes
+ACH-000842	SW 480	colorectal	Adherent	inferred-MSS	no	yes
+ACH-000163	SW579	thyroid	Adherent	inferred-MSS	yes	yes
+ACH-000384	SW 780	urinary_tract	Adherent	inferred-MSS	no	yes
+ACH-000421	SW837	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000680	SW948	colorectal	Adherent	inferred-MSS	yes	yes
+ACH-000018	T24	urinary_tract	Adherent	inferred-MSS	yes	yes
+ACH-000147	T-47D	breast	Adherent	inferred-MSS	yes	yes
+ACH-000571	T98G	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000502	TCC-PAN2	pancreas	Adherent	inferred-MSS	yes	yes
+ACH-000720	TCCSUP	urinary_tract	Adherent	inferred-MSS	yes	yes
+ACH-000605	TE-6	esophagus	Adherent	inferred-MSS	yes	yes
+ACH-000694	TE-9	esophagus	Adherent	inferred-MSS	yes	yes
+ACH-000146	THP-1	blood	Suspension	inferred-MSS	yes	yes
+ACH-000048	TOV-112D	ovary	Adherent	inferred-MSS	yes	yes
+ACH-000885	TOV-21G	ovary	Adherent	inferred-MSI	yes	yes
+ACH-000317	TUHR14TKB	kidney	Adherent	inferred-MSS	yes	yes
+ACH-000495	TUHR4TKB	kidney	Adherent	inferred-MSS	yes	yes
+ACH-000040	U-118 MG	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000364	U-2 OS	bone	Adherent	inferred-MSS	yes	yes
+ACH-000075	U-87 MG	central_nervous_system	Adherent	inferred-MSS	yes	yes
+ACH-000406	U-937	blood	Suspension	inferred-MSS	yes	yes
+ACH-000568	UACC-812	breast	Suspension	inferred-MSS	no	yes
+ACH-000554	UACC-893	breast	Adherent	inferred-MSS	yes	yes
+ACH-000741	U-BLC1	urinary_tract	Adherent	inferred-MSS	yes	yes
+ACH-000522	UM-UC-3	urinary_tract	Adherent	inferred-MSS	yes	yes
+ACH-000115	VCaP	prostate	Adherent	inferred-MSS	yes	yes
+ACH-000484	VMRC-RCW	kidney	Adherent	inferred-MSS	yes	yes
+ACH-000304	WM-115	skin	Adherent	inferred-MSS	yes	yes
+ACH-000661	WM1799	skin	Adherent	inferred-MSS	yes	yes
+ACH-001239	WM-266-4	skin	Adherent	inferred-MSS	yes	yes
+ACH-000827	WM-793	skin	Adherent	inferred-MSS	yes	yes
+ACH-000899	WM-88	skin	Adherent	inferred-MSS	yes	yes
+ACH-000097	ZR-75-1	breast	Adherent	inferred-MSS	yes	yes
+ACH-000828	ZR-75-30	breast	Adherent	inferred-MSS	no	yes
+ACH-000323	42-MG-BA	central_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-000905	5637	urinary_tract	Adherent	inferred-MSS	yes	no
+ACH-000973	639-V	urinary_tract	Adherent	inferred-MSI	yes	no
+ACH-000896	647-V	urinary_tract	Adherent	inferred-MSS	yes	no
+ACH-000137	8-MG-BA	central_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-001442	A388	epidermoid_carcinoma	Adherent	inferred-MSS	yes	no
+ACH-001328	A-431	skin	Adherent	inferred-MSS	yes	no
+ACH-001443	ASH-3	thyroid	Adherent	inferred-MSS	yes	no
+ACH-000802	BFTC-905	urinary_tract	Adherent	inferred-MSS	yes	no
+ACH-000503	BICR 16	upper_aerodigestive	Adherent	inferred-MSS	yes	no
+ACH-000228	BICR 31	upper_aerodigestive	Adherent	inferred-MSS	yes	no
+ACH-001332	BICR 78	upper_aerodigestive	Adherent	inferred-MSS	yes	no
+ACH-000402	BL-70	lymphocyte	Adherent	inferred-MSS	yes	no
+ACH-001453	BPH-1	prostate	Adherent	inferred-MSS	yes	no
+ACH-001333	C-33 A	cervix	Adherent	inferred-MSI	yes	no
+ACH-001334	C-4 I	cervix	Adherent	inferred-MSS	yes	no
+ACH-001715	CAL-72	bone	Adherent	inferred-MSS	yes	no
+ACH-000516	CAL-78	bone	Adherent	inferred-MSS	yes	no
+ACH-000354	Capan-1	pancreas	Adherent	inferred-MSS	yes	no
+ACH-001336	Ca Ski	cervix	Adherent	inferred-MSS	yes	no
+ACH-000329	CCF-STTG1	central_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-001338	CHP-134	peripheral_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-000120	CHP-212	peripheral_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-000968	COLO 792	skin	Adherent	inferred-MSS	yes	no
+ACH-000695	COR-L47	lung	Suspension	inferred-MSS	yes	no
+ACH-000233	DEL	lymphocyte	Suspension	inferred-MSS	yes	no
+ACH-001341	DoTc2 4510	cervix	Adherent	inferred-MSS	yes	no
+ACH-001494	EGI-1	bile_duct	Adherent	inferred-MSS	yes	no
+ACH-001497	ESO51	esophagus	Suspension	inferred-MSS	yes	no
+ACH-001498	Farage	lymphocyte	Suspension	inferred-MSI	yes	no
+ACH-001500	FLO-1	esophagus	Adherent	inferred-MSS	yes	no
+ACH-000082	G-292, clone A141B1	bone	Adherent	inferred-MSS	yes	no
+ACH-000835	GCT	soft_tissue	Adherent	inferred-MSS	yes	no
+ACH-001344	GI-ME-N	peripheral_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-001345	GP5d	colorectal	Adherent	inferred-MSI	yes	no
+ACH-000389	H4	central_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-000843	HARA	lung	Adherent	inferred-MSS	yes	no
+ACH-000150	HCC2935	lung	Adherent	inferred-MSS	yes	no
+ACH-001517	HEC-1	uterus	Adherent	inferred-MSI	yes	no
+ACH-000941	HEC-1-B	uterus	Adherent	inferred-MSI	yes	no
+ACH-002045	HO-1-u-1	upper_aerodigestive	Adherent	inferred-MSS	yes	no
+ACH-000616	Hs 746T	gastric	Adherent	inferred-MSS	yes	no
+ACH-000801	Hs 936.T	skin	Adherent	inferred-MSS	yes	no
+ACH-001525	HT-3	cervix	Adherent	inferred-MSS	yes	no
+ACH-000829	HuNS1	plasma_cell	Suspension	inferred-MSS	yes	no
+ACH-001526	HuO9	bone	Adherent	inferred-MSS	yes	no
+ACH-001528	IHH-4	thyroid	Adherent	inferred-MSS	yes	no
+ACH-000310	IMR-32	peripheral_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-000331	IST-MES2	lung	Adherent	inferred-MSS	yes	no
+ACH-001529	JAR	uterus	Adherent	inferred-MSS	yes	no
+ACH-001530	JEG-3	uterus	Adherent	inferred-MSS	yes	no
+ACH-000577	JHH-2	liver	Adherent	inferred-MSS	yes	no
+ACH-000928	JHUEM-1	uterus	Adherent	inferred-MSI	yes	no
+ACH-000151	JM1	blood	Suspension	inferred-MSS	yes	no
+ACH-000995	JURKAT	blood	Suspension	inferred-MSI	yes	no
+ACH-000053	KARPAS-299	lymphocyte	Suspension	inferred-MSS	yes	no
+ACH-000101	KE-37	blood	Suspension	inferred-MSS	yes	no
+ACH-000167	KE-97	plasma_cell	Adherent	inferred-MSS	yes	no
+ACH-000293	KLE	uterus	Adherent	inferred-MSS	yes	no
+ACH-000313	KMRC-3	kidney	Adherent	inferred-MSS	yes	no
+ACH-000714	KMS-11	plasma_cell	Adherent	inferred-MSS	yes	no
+ACH-000588	KMS-26	plasma_cell	Suspension	inferred-MSS	yes	no
+ACH-000498	KO52	blood	Suspension	inferred-MSS	yes	no
+ACH-001542	KON	upper_aerodigestive	Adherent	inferred-MSS	yes	no
+ACH-000604	KYO-1	blood	Suspension	inferred-MSS	yes	no
+ACH-000873	KYSE-270	esophagus	Adherent	inferred-MSS	yes	no
+ACH-000252	LS1034	colorectal	Adherent	inferred-MSS	yes	no
+ACH-001549	Lu-135	lung	Suspension	inferred-MSS	yes	no
+ACH-000602	M-07e	blood	Suspension	inferred-MSS	yes	no
+ACH-000583	MC116	lymphocyte	Suspension	inferred-MSS	yes	no
+ACH-000796	MCAS	ovary	Adherent	inferred-MSS	yes	no
+ACH-000405	MEC-1	blood	Adherent	inferred-MSS	yes	no
+ACH-000078	MHH-NB-11	peripheral_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-000077	MJ	lymphocyte	Suspension	inferred-MSS	yes	no
+ACH-001360	MS751	cervix	Adherent	inferred-MSS	yes	no
+ACH-000335	MSTO-211H	lung	Adherent	inferred-MSS	yes	no
+ACH-000944	NAMALWA	lymphocyte	Suspension	inferred-MSS	yes	no
+ACH-000514	NCI-H1092	lung	Suspension	inferred-MSS	yes	no
+ACH-000894	NCI-H1869	lung	Adherent	inferred-MSS	yes	no
+ACH-000355	NCI-H82	lung	Adherent	inferred-MSS	yes	no
+ACH-001603	NH-12	peripheral_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-000200	NMC-G1	central_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-001605	no.10	central_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-002067	NOS-1	bone	Adherent	inferred-MSS	yes	no
+ACH-001368	OAC-M5.1	esophagus	Suspension	inferred-MSS	yes	no
+ACH-000116	OAW28	ovary	Adherent	inferred-MSS	yes	no
+ACH-001145	OC 316	ovary	Adherent	inferred-MSI	yes	no
+ACH-000124	OCI-LY-19	lymphocyte	Suspension	inferred-MSS	yes	no
+ACH-001625	OSC-19	upper_aerodigestive	Adherent	inferred-MSS	yes	no
+ACH-001626	OSC-20	upper_aerodigestive	Adherent	inferred-MSS	yes	no
+ACH-001151	OVCAR-5	ovary	Adherent	inferred-MSS	yes	no
+ACH-000947	OVK18	ovary	Adherent	inferred-MSI	yes	no
+ACH-002059	P30/OHK	blood	Suspension	inferred-MSI	yes	no
+ACH-001374	PA-1 [PA1]	ovary	Adherent	inferred-MSS	yes	no
+ACH-000022	PA-TU-8988S	pancreas	Adherent	inferred-MSS	yes	no
+ACH-000619	PE/CA-PJ15	upper_aerodigestive	Adherent	inferred-MSS	yes	no
+ACH-001630	PEO1	ovary	Adherent	inferred-MSS	yes	no
+ACH-001711	PFSK-1	central_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-000468	PK-45H	pancreas	Adherent	inferred-MSS	yes	no
+ACH-000189	RCC10RGB	kidney	Adherent	inferred-MSS	yes	no
+ACH-000565	RCM-1	colorectal	Adherent	inferred-MSS	yes	no
+ACH-000791	RERF-LC-Ad1	lung	Adherent	inferred-MSS	yes	no
+ACH-000442	RERF-LC-Sq1	lung	Adherent	inferred-MSS	yes	no
+ACH-001385	RPMI 2650	upper_aerodigestive	Adherent	inferred-MSS	yes	no
+ACH-002029	SAS	upper_aerodigestive	Adherent	inferred-MSS	yes	no
+ACH-001641	SAT	upper_aerodigestive	Adherent	inferred-MSS	yes	no
+ACH-000839	SCaBER	urinary_tract	Adherent	inferred-MSS	yes	no
+ACH-000181	SCC-9	upper_aerodigestive	Adherent	inferred-MSS	yes	no
+ACH-000195	Set-2	blood	Suspension	inferred-MSS	yes	no
+ACH-000764	SH-10-TC	gastric	Adherent	inferred-MSS	yes	no
+ACH-001650	SISO	cervix	Adherent	inferred-MSS	yes	no
+ACH-001653	SK-GT-2	gastric	Adherent	inferred-MSS	yes	no
+ACH-001654	SK-GT-4	esophagus	Adherent	inferred-MSS	yes	no
+ACH-000822	SK-MEL-24	skin	Adherent	inferred-MSS	yes	no
+ACH-001655	SKN	uterus	Adherent	inferred-MSS	yes	no
+ACH-000939	SK-UT-1	soft_tissue	Adherent	inferred-MSI	yes	no
+ACH-002062	SLVL	lymphocyte	Suspension	inferred-MSS	yes	no
+ACH-000504	SNB75	central_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-000483	SNU-182	liver	Adherent	inferred-MSS	yes	no
+ACH-000478	SNU-387	liver	Adherent	inferred-MSS	yes	no
+ACH-000422	SNU-475	liver	Adherent	inferred-MSS	yes	no
+ACH-000182	SNU-869	bile_duct	Adherent	inferred-MSS	yes	no
+ACH-000664	SU-DHL-1	lymphocyte	Suspension	inferred-MSS	yes	no
+ACH-000226	SUP-M2	lymphocyte	Suspension	inferred-MSS	yes	no
+ACH-000489	SW1116	colorectal	Adherent	inferred-MSS	yes	no
+ACH-001398	SW 156	kidney	Adherent	inferred-MSS	yes	no
+ACH-001399	SW 626	colorectal	Adherent	inferred-MSS	yes	no
+ACH-001402	SW756	cervix	Adherent	inferred-MSS	yes	no
+ACH-001400	SW 954	cervix	Adherent	inferred-MSS	yes	no
+ACH-000085	T3M-4	pancreas	Adherent	inferred-MSS	yes	no
+ACH-000381	T84	colorectal	Adherent	inferred-MSS	yes	no
+ACH-001670	TASK1	peripheral_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-000387	TF-1	blood	Suspension	inferred-MSS	yes	no
+ACH-001861	TGBC1TKB	bile_duct	Adherent	inferred-MSS	yes	no
+ACH-001674	TGW	peripheral_nervous_system	Adherent	inferred-MSS	yes	no
+ACH-000716	TT2609-C02	thyroid	Adherent	inferred-MSS	yes	no
+ACH-000834	UM-UC-1	urinary_tract	Adherent	inferred-MSS	yes	no
+ACH-001418	UWB1.289	ovary	Adherent	inferred-MSS	yes	no
+ACH-001702	VA-ES-BJ	soft_tissue	Adherent	inferred-MSS	yes	no
+ACH-000545	VM-CUB1	urinary_tract	Adherent	inferred-MSS	yes	no
+ACH-001709	WSU-NHL	lymphocyte	Suspension	inferred-MSI	yes	no
+ACH-000332	YAPC	pancreas	Adherent	inferred-MSS	yes	no
+ACH-000469	YH-13	central_nervous_system	Adherent	inferred-MSS	yes	no
